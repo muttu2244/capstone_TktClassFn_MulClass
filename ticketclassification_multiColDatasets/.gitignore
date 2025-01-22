@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+data/processed/
+models/
+reports/
+*.log
+venv/
